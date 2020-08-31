@@ -6,8 +6,8 @@ Create a program that takes information of a pet. The program should take
 3. The pet's sex (m/f)
 4. The pet's number of paws
 
-The output should look like:
-Name:     Lucky
-Type:     Dog
-Sex:      M
-Paws:     3
+The output should look like:  
+Name:     Lucky  
+Type:     Dog  
+Sex:      M  
+Paws:     3  
